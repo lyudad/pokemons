@@ -1,0 +1,5 @@
+export const SET_POKEMONS_LIST = 'SET_POKEMONS_LIST';
+export const SET_SELECT_POKEMON = 'SET_SELECT_POKEMON';
+export const SET_TYPES_LIST = 'SET_TYPES_LIST';
+
+export const SET_USER_TOKEN = 'SET_USER_TOKEN';
